@@ -523,7 +523,7 @@ function HomeScreen({ questions, onDetail, onRandom, onTab }: {
   return (
     <div className="pb-24 px-5 pt-8">
       <div className="mb-7">
-        <p className="text-[11px] font-medium tracking-widest text-[#7A7268] uppercase mb-1">Mon · Jun 23</p>
+        <p className="text-[11px] font-medium tracking-widest text-[#7A7268] uppercase mb-1">수요일 · Jun 23</p>
         <h1 className="font-display text-[26px] font-semibold text-[#17150E] leading-tight">OPIC Flow<br />Trainer</h1>
         <p className="text-sm text-[#7A7268] mt-1.5 leading-snug">Practice the order of ideas,<br />not memorized answers.</p>
       </div>
